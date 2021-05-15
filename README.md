@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kayrourio
+- 👀 I’m interested in C++, Web dev, Machine Learning
+- 🌱 I’m currently learning Html, Css and C++
+- 💞️ I’m looking to collaborate on (I'm ok now).
+- 📫 How to reach me kaikepassosboechat@gmail.com
