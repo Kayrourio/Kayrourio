@@ -3,7 +3,7 @@ My name is Kaike! I'm a student in senior year of high school who loves to learn
 I am manly working as a freelancer with python automations, I have two years of freelancer with one cliente I met at school and currently doing an internship.
 
 # My Skills
-![My Skills](https://skillicons.dev/icons?i=vscode,github,python,git,html,css,arduino)
+![My Skills](https://skillicons.dev/icons?i=vscode,go,python,git,html,css,arduino)
 
 
 # Contact Me
